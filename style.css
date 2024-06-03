@@ -1,0 +1,24 @@
+/*
+Theme Name: Launcher
+Theme URI:
+Author: SOFTLAB
+Author URI: #
+Description: Our Second HyperMinimal Theme
+Requires at least: 6.4
+Tested up to: 6.5
+Requires PHP: 7.0
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, education
+Text Domain: launcher
+*/
+
+#fh5co-logo{
+    margin-top: 30px;
+}
+
+#fh5co-logo a {
+    font-size: 48px;
+    color: #222 !important;
+}
